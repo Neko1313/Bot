@@ -6,7 +6,7 @@ from PIL import Image
 import re
 from collections import Counter
 
-TOKEN ="5926059894:AAFWEBtiY0JOYUwC3YXqsnyALQNvXlBgWCw"
+TOKEN =""
 
 bot = telebot.TeleBot(TOKEN)
 db = Database("bd.db")
